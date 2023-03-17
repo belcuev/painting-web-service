@@ -3,13 +3,14 @@
 <title>Bond Web Service Demo</title>
 <style>
 	body {font-family:georgia;}
-   .film{
-    border:1px solid #E77DC2;
+ .film {
+    border: 1px solid #E77DC2;
     border-radius: 5px;
     padding: 5px;
-    margin-bottom:5px;
-    position:relative;   
-  }
+    margin-bottom: 5px;
+    position: relative;
+   min-height: 150px;
+}
 
 
   .pic{
